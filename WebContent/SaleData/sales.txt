@@ -1,0 +1,6 @@
+2020-04-04  ::  John Doe  ::  3800.0  ::  2019-11-03  ::  1973-Volkswagen-Thing.jpg  ::  1973  ::  Volkswagen  ::  Thing  ::  3733217994  ::  127000  ::  4000  ::  Rare find.
+2020-04-03  ::  John Doe  ::  4000  ::  2020-04-02  ::  1980-Chevrolet-Impala.jpg  ::  1980  ::  Chevrolet  ::  Impala  ::  3J332CHV968165  ::  127000  ::  4000  ::  Rare find.
+2020-04-02  ::  John Doe  ::  4000  ::  2019-11-01  ::  1973-Volkswagen-Thing.jpg  ::  1973  ::  Volkswagen  ::  Thing  ::  3733217997  ::  127000  ::  4000  ::  Rare find.
+2020-04-01  ::  John Doe  ::  3800  ::  2020-04-01  ::  1973-Volkswagen-Thing.jpg  ::  1973  ::  Volkswagen  ::  Thing  ::  3733217999  ::  127000  ::  4000  ::  Rare find.
+2020-04-01  ::  John Doe  ::  3900  ::  2020-04-01  ::  1973-Volkswagen-Thing.jpg  ::  1973  ::  Volkswagen  ::  Thing  ::  3733217998  ::  127000  ::  4000  ::  Rare find.
+2020-01-08  ::  John Doe  ::  2800.0  ::  2019-10-02  ::  1973-Volkswagen-Thing.jpg  ::  1973  ::  Volkswagen  ::  Thing  ::  3733217995  ::  127000  ::  3000  ::  Rare find.
